@@ -21,12 +21,21 @@ The following are important outcomes generated from the Amazon Vine Analysis;
 
 1. **How many Vine reviews and non-Vine reviews were there?** From the results of the review (as per deliverable 2), the total number of Vine reviews were 47 while that of non-Vine reviews were 8,362. The 2 images below show a snapshot of the dataframes of the 2 categories (Vine & non-Vine reviews)
 
+<img src ="images/vine_review_dataframe.png">
+
+
+<img src ="images/nonvine_review_dataframe.png">
 
 2. **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?** From the results generated in deliverable 2, of the 47 Vine reviews, 15 were 5-stars while 4,332 of the 8,362 non-Vine reviews were 5-stars. The 2 images below show a snapshot of the dataframes of the 2 categories (Vine & non-Vine reviews)
 
+<img src ="images/fivestar_vine_review.png">
+
+
+<img src ="images/fivestar_nonvine_review.png">
 
 3. **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 31.91% of the vine reviews were 5-stars while 51.81% of the non-vine reviews were 5-stars. The image below shows a snapshot of the code used to derive these percentages
 
+<img src ="images/percentage_fivestar_reviews.png">
 
 ## Summary
 In summary and following the review of the results generated in deliverable 2, there is no evidence of positivity bias for reviews from the paid vine program. This is because the result above shows that only 31.91% of the total vine reviews were rated 5-stars compared to 51.81% from the non-vine reviews.  A suspicion of positivity bias for reviews from the vine program would have generated the opposite the above results where the percentage of 5-star ratings from the vine reviews will be significantly higher than those from the non-vine reviews.
